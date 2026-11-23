@@ -21,6 +21,9 @@ Interactive Tableau dashboard analyzing city-wide traffic patterns and congestio
 **[Cyclistic Bike-Share Case Study](https://github.com/KhalledV/Cyclistic-Case-Study)**
 Google Data Analytics capstone analyzing rider behavior to drive a membership-conversion marketing strategy.
 
+**[Neural Networks from Scratch](https://github.com/KhalledV/neural-networks-from-scratch)**
+Built an autograd engine, character-level language models, and a deep network with hand-written BatchNorm layers. Wrote the backward pass by hand and verified every gradient against PyTorch autograd.
+
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/khaled-metri-b6877127b/)
 
